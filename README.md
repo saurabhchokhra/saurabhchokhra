@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saurabhchokhra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Saurabh Maheshwari
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on projects
+
 
 <!---
 saurabhchokhra/saurabhchokhra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
